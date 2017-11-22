@@ -74,11 +74,9 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   margin: 0 auto; }
   body h1 {
-    color: #62ae25;
+    color: #000;
     padding: 30px 0;
     text-align: center; }
   body p {
-    color: #666;
+    color: #665;
     text-align: left; }
-
-/*# sourceMappingURL=style.css.map */
